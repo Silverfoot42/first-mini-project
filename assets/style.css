@@ -1,0 +1,17 @@
+* { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+}
+body {
+    background-color: green;
+}
+section {
+    width: 700px;
+    height: 1000px;
+    background-color: purple;
+    margin: auto;
+}
+p {
+    font-size: xx-large;
+}
